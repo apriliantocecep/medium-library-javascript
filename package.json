@@ -1,0 +1,17 @@
+{
+  "name": "medium-library",
+  "version": "1.0.0",
+  "description": "Javascript client library for the Medium app",
+  "homepage": "https://github.com/apriliantocecep/medium-library-javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["medium", "api", "library"],
+  "author": "Cecep Aprilianto <cecepaprilianto@gmail.com> (https://github.com/apriliantocecep)",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/apriliantocecep/medium-library-javascript.git"
+  },
+  "license": "ISC"
+}
